@@ -1,7 +1,9 @@
 # Trivia
-Ejercicio del Curso Desarrollador Back End
-Trivia de biología.
+Ejercicio del Curso Desarrollador Back End -- Trivia de biología.
 
+
+## Requisitos
+Python3+
 
 ## Instrucciones:
 ### 1. Asegurarse de tener el archivo preguntas.csv en la misma carpeta que trivia.py
