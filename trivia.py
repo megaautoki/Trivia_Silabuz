@@ -31,7 +31,7 @@ while condicion in ["s","si","Sí","sí","SI","SÍ","sÍ","sI"]:
     puntaje = 0
     #usar la biblioteca random para elegir una muestra de preguntas de todas las preguntas para incluir en la trivia
     import random
-    preguntas_trivia = random.sample(preguntas, 3)
+    preguntas_trivia = random.sample(preguntas, num_preguntas)
     #Hacer un bucle para presentar tres preguntas aleatorias del archivo csv de preguntas, i = 0 porque se usará tambien para pasar por los elementos de preguntas_trivia
     i = 0
     while i <= num_preguntas - 1:
