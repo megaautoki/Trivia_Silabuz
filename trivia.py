@@ -7,7 +7,7 @@ MAGENTA = '\033[35m'
 RESET = '\033[39m'
 
 #elegir el numero de preguntas a mostrar en la trivia
-num_preguntas = 3
+num_preguntas = 5
 
 #importar un archivo csv conteniendo las preguntas y asignarlo a la variable "preguntas"
 #la estructura del csv es "enunciado;numero de alternativa correcta;alternativa1;alternativa2;alternativa3;alternativa4"
