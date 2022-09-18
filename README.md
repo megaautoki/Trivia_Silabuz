@@ -1,5 +1,6 @@
-# Trivia_Silabuz
+# Trivia
 Ejercicio del Curso Desarrollador Back End
+Trivia de biología.
 
 
 ## Instrucciones:
