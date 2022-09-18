@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Colores para incluir en la trivia
 WHITE = '\033[37m'
 RED = '\033[31m'
